@@ -1,0 +1,11 @@
+[FW_VERSION]
+Version = 0.1.11
+[NET_CONFIG]
+IP = 192.168.144.50
+GATEWAY = 192.168.144.12
+[Protocol]
+ProtocolType = 0
+RtspAddress = rtsp://192.168.144.25:8554/main.264
+SiyiAddress = 192.168.144.25
+SiyiPort = 3725
+OsdShow = 1
